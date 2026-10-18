@@ -2,7 +2,6 @@ import math as m
 import random as r
 import tkinter as tk
 import tkinter.font as tkf
-
 W, H = 800, 800
 DURATION = 10
 TICK = 16
